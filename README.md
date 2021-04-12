@@ -1,5 +1,5 @@
 # CSGO-Config
-This is a live version of my CSGO Config file, as I change it on my PC, It will update here.
+This is a live version of my Counter-Strike : Global Offensive Configuration file, as I change it on my PC, It will update here.
 
 If you do not know how to setup the file so you can use my config in your game, and have it update with a simple git pull, there are many turoials out there to help.
 I will be doing lots of Pushes to this repo as I change my config.
